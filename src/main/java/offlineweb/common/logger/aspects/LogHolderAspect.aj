@@ -22,6 +22,8 @@
  * THE SOFTWARE.
  */
 
+ package offlineweb.common.logger.aspects;
+
 import offlineweb.common.logger.annotations.Loggable;
 import org.aspectj.lang.JoinPoint;
 import org.slf4j.Logger;

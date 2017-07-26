@@ -1,0 +1,16 @@
+-Xajruntimetarget:1.5
+-1.8
+-encoding
+UTF-8
+-outxml
+-source
+1.8
+-target
+1.8
+-classpath
+/Users/papa/.m2/repository/org/aspectj/aspectjrt/1.8.9/aspectjrt-1.8.9.jar:/Users/papa/.m2/repository/org/slf4j/slf4j-api/1.7.21/slf4j-api-1.7.21.jar:/Users/papa/.m2/repository/org/slf4j/slf4j-log4j12/1.7.21/slf4j-log4j12-1.7.21.jar:/Users/papa/.m2/repository/log4j/log4j/1.2.17/log4j-1.2.17.jar:/Users/papa/spaces/workspace/OfflineWeb/logger/target/classes
+-d
+/Users/papa/spaces/workspace/OfflineWeb/logger/target/classes
+/Users/papa/spaces/workspace/OfflineWeb/logger/src/main/java/offlineweb/common/logger/annotations/Loggable.java
+/Users/papa/spaces/workspace/OfflineWeb/logger/src/main/java/offlineweb/common/logger/aspects/LogHolderAspect.aj
+/Users/papa/spaces/workspace/OfflineWeb/logger/src/main/java/offlineweb/common/logger/aspects/LoggerAspect.aj
