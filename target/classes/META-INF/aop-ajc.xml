@@ -1,7 +1,0 @@
-<aspectj>
-<aspects>
-<aspect name="offlineweb.common.logger.aspects.LoggerAspect"/>
-<aspect name="offlineweb.common.logger.aspects.LogHolderAspect"/>
-</aspects>
-</aspectj>
-
