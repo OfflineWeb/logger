@@ -9,12 +9,6 @@ dist/
 nbdist/
 .nb-gradle/
 
-RESTConnector/nbproject/
-RESTConnector/target/
-
-DBConnector/nbproject/
-DBConnector/target/
-
 ### Java ###
 *.class
 
@@ -80,12 +74,12 @@ crashlytics-build.properties
 fabric.properties
 
 ### Maven ###
-target/*
+target/
 
 ### Intellij Patch ###
 # Comment Reason: https://github.com/joeblau/gitignore.io/issues/186#issuecomment-215987721
 
-# *.iml
+*.iml
 # modules.xml
 # .idea/misc.xml
 # *.ipr
